@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiForYoutube</string>
+    <string name="rub">RUB:</string>
+    <string name="usd">USD:</string>
+</resources>
